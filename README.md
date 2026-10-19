@@ -18,10 +18,10 @@ The stylist and the delivery-date helper only use the products in `products.json
 I used Claude to help build the site, the AI feature and the one-page plan. I did not use any other paid AI tool.
 
 ## What I checked and changed
-- Checked the plan's numbers against analytics.csv (ad spend per order, break-even, order-by date).
-- Tested the AI feature with EU and UK delivery, tight and distant dates, and low budgets.
-- Checked the product page on a phone for fabric, fit, sizes, returns and a clear button.
-- I used Claude to build the first version of the site, the stylist and the delivery-date helper, and to draft the one-page plan from the analytics. I did not use any other AI tool.
+- Re-ran the plan's figures against analytics.csv (mobile checkout completion, paid social loss, email conversion). They match.
+- Tested the stylist with UK and EU delivery, a date that is too soon, a date far away and a £50 budget. It gave dates only from the making and delivery times, and said so when nothing fitted.
+- Checked a product page on my phone.
+- Used Claude to build the first version of the site, the stylist and the delivery-date helper, and to draft the plan. I then fixed grammar and capitalisation in product text and tidied the product tiles.
 
 ## What I would cut or do next
 Customer reviews (none exist yet, so none are shown), a Black Friday version of the home page, Lighthouse scores and structured data for AI assistants.
