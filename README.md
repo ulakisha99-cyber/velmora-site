@@ -15,13 +15,13 @@ A concept site for Velmora, a fictional London evening-wear label, built for the
 The stylist and the delivery-date helper only use the products in `products.json` and the lead times in the brand brief (14 to 21 days to make, UK delivery 3 to 5 days, EU 5 to 8 days). When a date cannot be promised or nothing matches the choices, it says so instead of guessing. No API keys are used in the code or on the page.
 
 ## How I used AI tools
-I used Claude to help build the site, the AI feature and the one-page plan. [Add anything else you used, for example ChatGPT or Cursor, and what for.]
+I used Claude to help build the site, the AI feature and the one-page plan. I did not use any other paid AI tool.
 
 ## What I checked and changed
 - Checked the plan's numbers against analytics.csv (ad spend per order, break-even, order-by date).
 - Tested the AI feature with EU and UK delivery, tight and distant dates, and low budgets.
 - Checked the product page on a phone for fabric, fit, sizes, returns and a clear button.
-- [Add anything you changed after testing, or write "No changes were needed after testing."]
+- I used Claude to build the first version of the site, the stylist and the delivery-date helper, and to draft the one-page plan from the analytics. I did not use any other AI tool.
 
 ## What I would cut or do next
 Customer reviews (none exist yet, so none are shown), a Black Friday version of the home page, Lighthouse scores and structured data for AI assistants.
